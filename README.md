@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Fadifloyd
-- 👀 I’m interested in ... football, sports
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ... pipeline projects
+i am going to play cricket. 
